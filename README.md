@@ -31,9 +31,11 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=munircole&style=flat-square&color=blue" alt=""/>
+<div align="center">
+   <img src="https://komarev.com/ghpvc/?username=munircole&style=flat-square&color=blue" alt=""/>
+</div>
 
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -72,7 +74,6 @@ I am a Full Stack Developer from Nigeria.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 

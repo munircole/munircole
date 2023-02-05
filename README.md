@@ -52,7 +52,7 @@ I am a Full Stack Developer from Nigeria.
 
 - :zap: In my free time, i listen to music and read books.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-munirudeen-02a772124?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bj2pMMkHdRFK1sdrCvfS0zA%3D%3D)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Munir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-munirudeen-02a772124?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bj2pMMkHdRFK1sdrCvfS0zA%3D%3D)
 
 
 
